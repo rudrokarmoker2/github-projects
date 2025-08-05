@@ -1,0 +1,164 @@
+.flex{
+    display: flex;
+}
+
+.contenar-1{
+    border: 2px solid black;
+    height: 250px;
+    width: 300px;
+    gap: 10px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.child-1,.child-2,.child-3{
+    border: 1px solid rgb(15, 124, 115);
+    height: 30px;
+    width: 55px;
+    text-align: center;
+}
+
+.contenar-2{
+    border: 2px solid black;
+    height: 250px;
+    width: 300px;
+    gap: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.child-4,.child-5,.child-6{
+    border: 1px solid rgb(15, 124, 115);
+    height: 30px;
+    width: 55px;
+    text-align: center;
+}
+
+.contenar-3{
+    border: 2px solid black;
+    height: 250px;
+    width: 300px;
+    gap: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.child-7,.child-8,.child-9{
+    border: 1px solid rgb(15, 124, 115);
+    height: 30px;
+    width: 55px;
+    text-align: center;
+    align-self: flex-end;
+}
+
+.contenar-4{
+    border: 2px solid black;
+    height: 250px;
+    width: 300px;
+    gap: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.child-10,.child-11,.child-12{
+    border: 1px solid rgb(15, 124, 115);
+    height: 30px;
+    width: 55px;
+    text-align: center;
+}
+.child-11{
+    align-self: flex-end;
+}
+.flex-2{
+    display: flex;
+}
+
+.contenar-5{
+    border: 2px solid black;
+    height: 250px;
+    width: 300px;
+    gap: 10px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+   
+
+}
+
+.child-13,.child-14,.child-15{
+    border: 1px solid rgb(15, 124, 115);
+    height: 30px;
+    width: 55px;
+    text-align: center;
+}
+
+.contenar-6{
+    border: 2px solid black;
+    height: 250px;
+    width: 300px;
+    gap: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+.child-16,.child-17,.child-18{
+    border: 1px solid rgb(15, 124, 115);
+    height: 30px;
+    width: 55px;
+    text-align: center;
+}
+
+.contenar-7{
+    border: 2px solid black;
+    height: 250px;
+    width: 300px;
+    gap: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+
+}
+
+.child-19,.child-20,.child-21{
+    border: 1px solid rgb(15, 124, 115);
+    height: 30px;
+    width: 55px;
+    text-align: center;
+    align-self: flex-end;
+}
+
+.contenar-8{
+    border: 2px solid black;
+    height: 250px;
+    width: 300px;
+    gap: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+.child-22,.child-23,.child-24{
+    border: 1px solid rgb(15, 124, 115);
+    height: 30px;
+    width: 55px;
+    text-align: center;
+}
+
+.child-23{
+    align-self: flex-end;
+}
+
