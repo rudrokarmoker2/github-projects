@@ -15,12 +15,12 @@
     margin-left: 45px;
     font-size: 40px;
     text-shadow: 2px 2px 2px;
+    text-decoration: none;
 
 }
 
 .index {
     text-decoration: none;
-    text
     color: rgb(58, 56, 51);
     font-size: 20px;
     padding-right: 20px;
@@ -103,7 +103,7 @@
     background-color: rgb(65, 58, 44);
 }
 .full{
-    background-color: rgb(165, 152, 136);
+    background: linear-gradient(rgba(156, 121, 67, 0.5), rgba(34, 30, 7, 0.5));
     height: auto;
     width: auto;
     border-radius: 10px;
